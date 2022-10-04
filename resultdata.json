@@ -2,10 +2,12 @@
     {
         "examName":"See",
         "url":"",
+        "logoUrl":"",
         "haveSublinks":true,
         "sublinks":[
         {
         "examName":"See 2078",
+        "logourl":"",
         "url":""
         }
         ]
@@ -13,9 +15,9 @@
       {
         "examName":"TU",
         "url":"",
+        "logoUrl":"",
         "haveSublinks":false,
         "sublinks":[
-        
         ]
       }
 ]
